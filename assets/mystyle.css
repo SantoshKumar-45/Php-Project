@@ -1,0 +1,67 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+  *{
+    font-family: 'Poppins', sans-serif;
+  }
+
+  
+.loginForm {
+    width: 50%;
+    margin: auto;
+    margin-top: 6%;
+}
+
+.headerh2 {
+    text-align: center;
+    margin-top: 4%;
+    color: rgb(29, 140, 210);
+}
+
+.welcomeclass {
+    width: 95%;
+    height: 40%;
+    display: block;
+    margin: auto;
+    margin-top: 1%;
+    border: 2px solid green;
+}
+
+.Entryform {
+    width: 60%;
+    margin: auto;
+    margin-top: 2%;
+}
+
+.stockformclass {
+    width: 82%;
+    margin: auto;
+    margin-top: 2%;
+    background-color: white;
+}
+
+.myTable {
+    width: 100%;
+    margin: auto;
+    margin-top: 3%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.myAlert {
+    width: 70%;
+    margin: auto;
+    margin-top: 2%;
+}
+
+p {
+    margin: 2px 0 1rem;
+    border: 1px solid rgb(235, 227, 227);
+    background-color: white;
+    border-radius: 3px;
+    text-align: center;
+    box-shadow: 5px 29px white;
+}
+
+.reports ul {
+    background-color: aqua;
+}
